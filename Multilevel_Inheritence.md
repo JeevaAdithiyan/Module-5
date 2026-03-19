@@ -27,6 +27,11 @@ To write a Python program that uses multilevel inheritance to get and display a 
 
 ## Program
 Add code here
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090615" src="https://github.com/user-attachments/assets/a82f17a9-1b7a-4155-ac9c-455c733ae653" />
 
 ## Sample Output
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090615" src="https://github.com/user-attachments/assets/4ed41ba5-9027-47d6-92ed-0e7ff6e0a1f0" />
 
+##RESULT
+
+Thus the program was successfully executed.and obtained the result
