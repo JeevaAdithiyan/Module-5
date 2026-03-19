@@ -13,7 +13,10 @@ To write a Python program that creates a **Student** class with a **default cons
 ## 🧾 Program
 
 Add code here
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090054" src="https://github.com/user-attachments/assets/cf1126f0-d2e4-4759-b2b1-986ac6f9b504" />
 
 ## Output
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090054" src="https://github.com/user-attachments/assets/b95c177e-d634-463e-a17a-f982d07efe13" />
 
 ## Result
+Thus the program was successfully executed.and obtained the result
