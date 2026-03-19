@@ -25,5 +25,12 @@ To write a Python program to calculate **Add, Sub & Division** using **Multiple 
 
 ## 💻 Program 
 Add code here
-## Output Example
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090815" src="https://github.com/user-attachments/assets/c1e71d81-59e4-48ac-b461-c411f6eeff8e" />
 
+## Output Example
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090815" src="https://github.com/user-attachments/assets/36eb8719-06c1-4379-b51a-6d899339b55f" />
+
+##RESULT
+
+
+Thus the program was successfully executed.and obtained the result
