@@ -22,8 +22,10 @@ The program defines a class `Demo` with:
    - Delete the object using the `del` keyword.
 ## Program
 Add code Here
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090209" src="https://github.com/user-attachments/assets/2b21f287-3410-463a-8209-cef73436ecfd" />
 
 ## 🧪 Output
+<img width="1920" height="1020" alt="Screenshot 2026-03-19 090209" src="https://github.com/user-attachments/assets/48ab6f1e-182d-4a46-876b-da2b40099474" />
 
 ## Result
-
+Thus the program was successfully executed.and obtained the result
